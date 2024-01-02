@@ -1,0 +1,23 @@
+{
+  "prompt": "",
+  "negative_prompt": "",
+  "styles": [
+    "Renaissance"
+  ],
+  "sampler_name": "DPM++ 2M SDE Karras",
+  "batch_size": 1,
+  "n_iter": 1,
+  "steps": 50,
+  "cfg_scale": 9,
+  "width": 828,
+  "height":1792,
+  "restore_faces": false,
+  "tiling": false,
+  "denoising_strength": 0.45,
+  "override_settings": {"sd_model_checkpoint":"SDXLFaetastic_v20.safetensors [f02c2a8d29]"},
+  "override_settings_restore_afterwards": true,
+  "init_images": [
+    
+  ],
+  "resize_mode": 1
+} 

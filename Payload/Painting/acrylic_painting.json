@@ -1,0 +1,23 @@
+{
+  "prompt": "",
+  "negative_prompt": "",
+  "styles": [
+    "Acrylic_Painting"
+  ],
+  "sampler_name": "DPM++ 2M SDE Karras",
+  "batch_size": 1,
+  "n_iter": 1,
+  "steps": 40,
+  "cfg_scale": 7,
+  "width": 828,
+  "height":1792,
+  "restore_faces": false,
+  "tiling": false,
+  "denoising_strength": 0.6,
+  "override_settings": {},
+  "override_settings_restore_afterwards": true,
+  "init_images": [
+    
+  ],
+  "resize_mode": 1
+} 

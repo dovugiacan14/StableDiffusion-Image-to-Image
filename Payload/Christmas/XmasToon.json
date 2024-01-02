@@ -1,0 +1,24 @@
+{
+    "prompt": "",
+    "negative_prompt": "",
+    "styles": [
+      "XmasToon"
+    ],
+    "sampler_name": "DPM++ 2M SDE Karras",
+    "batch_size": 1,
+    "n_iter": 1,
+    "steps": 50,
+    "cfg_scale": 10,
+    "width": 1209,
+    "height":1612,
+    "restore_faces": false,
+    "tiling": false,
+    "denoising_strength": 0.55,
+    "override_settings": {"sd_model_checkpoint": "SDXLFaetastic_v20.safetensors [f02c2a8d29]"},
+    "override_settings_restore_afterwards": true,
+    "init_images": [
+      
+    ],
+    "resize_mode": 1
+  } 
+  
